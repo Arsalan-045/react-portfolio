@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8616e951.css",
+    "main.js": "/react-portfolio/static/js/main.72d2d1bb.js",
+    "static/media/imdb.jpg.png": "/react-portfolio/static/media/imdb.jpg.5a686a39614fe5e31f32.png",
+    "static/media/zf-mobiles.jpg.png": "/react-portfolio/static/media/zf-mobiles.jpg.4e5c181b2961f5b41d61.png",
+    "static/media/e-commerce.jpg.png": "/react-portfolio/static/media/e-commerce.jpg.b5cb64dae51c1219a5e3.png",
+    "static/media/tsig.jpg.png": "/react-portfolio/static/media/tsig.jpg.16eb006f77f1f8387634.png",
+    "static/media/gihub.png": "/react-portfolio/static/media/gihub.00c601f1724a126c1cbd.png",
+    "static/media/react-cert.png": "/react-portfolio/static/media/react-cert.e160403a94d5cb856a27.png",
+    "static/media/mongo.png": "/react-portfolio/static/media/mongo.436d1758b979124ec863.png",
+    "static/media/nodejs.png": "/react-portfolio/static/media/nodejs.464a108fc8ac2e1b92e1.png",
+    "static/media/info-removebg-preview.jpg": "/react-portfolio/static/media/info-removebg-preview.7329099ed6b5b5ac44af.jpg",
+    "static/media/sec-msg.jpg.png": "/react-portfolio/static/media/sec-msg.jpg.054467585ede2fab36e6.png",
+    "static/media/insta.jpg": "/react-portfolio/static/media/insta.b5a8baad084ce6a94cbc.jpg",
+    "static/media/java certificate.JPG": "/react-portfolio/static/media/java certificate.3a1dbf95914ee1df9303.JPG",
+    "static/media/weather.jpg.png": "/react-portfolio/static/media/weather.jpg.d33bb9eac10ba7d62561.png",
+    "static/media/freecodecamp.png.PNG": "/react-portfolio/static/media/freecodecamp.png.b5c78e1c029c837030a1.PNG",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.6d58dbe88058f8dab0f9.png",
+    "static/media/todo-fb.jpg.png": "/react-portfolio/static/media/todo-fb.jpg.6a2f2f3860326ff2bcbd.png",
+    "static/media/tel.png": "/react-portfolio/static/media/tel.c0affb7d1474a84dcb73.png",
+    "static/media/tic-tac-toe.jpg.png": "/react-portfolio/static/media/tic-tac-toe.jpg.287218e017d464355153.png",
+    "static/media/arsalan-logo-removebg-preview.png": "/react-portfolio/static/media/arsalan-logo-removebg-preview.2b1a4f516da4a9c650e6.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.8616e951.css.map": "/react-portfolio/static/css/main.8616e951.css.map",
+    "main.72d2d1bb.js.map": "/react-portfolio/static/js/main.72d2d1bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8616e951.css",
+    "static/js/main.72d2d1bb.js"
+  ]
+}
