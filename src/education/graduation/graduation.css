@@ -1,0 +1,70 @@
+/* EducationSection.css */
+.education-section {
+    padding: 50px 0;
+    background-color: #f7f7f7;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Add box-shadow to the section */
+  }
+  
+  .education-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .ed-head{
+    color: #2c8fb5;
+  }
+  .education-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+  }
+
+  .ed-h3{
+    color: #e74c3c;
+  }
+  
+  .education-item {
+    flex-basis: calc(33.33% - 40px); /* Equal-sized boxes with spacing */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px #2c8fb5;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
+    text-align: center;
+    margin: 0 20px 20px;
+  }
+  
+  .education-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px #c0392b, 0 15px 30px rgba(0, 0, 0, 0.2);
+    filter: brightness(1.1);
+    cursor: pointer;
+  }
+  
+  .education-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .education-item p {
+    font-size: 16px;
+    color: #777;
+    margin: 10px 0;
+  }
+  
+  /* Media query for responsiveness */
+  @media screen and (max-width: 768px) {
+
+    .education-list {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .education-item {
+      flex-basis: calc(100% - 40px);
+      margin: 0 20px 20px;
+    }
+  }
+  
