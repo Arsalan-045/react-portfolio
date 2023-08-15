@@ -1,0 +1,29 @@
+.scroll-to-top-button {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    background-color: #2c8fb5;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.3s, transform 0.3s;
+    z-index: 9999; /* Ensure the button appears on top of other elements */
+  }
+  
+  .scroll-to-top-button.visible {
+    display: block;
+  }
+  
+  .scroll-to-top-button.sticky {
+    position: sticky;
+    transform: translateY(-50%); /* Vertically center the button */
+    top: 50%; /* Position at 50% from the top */
+  }
+  
+  .scroll-to-top-button:hover {
+    opacity: 1;
+  }
+  

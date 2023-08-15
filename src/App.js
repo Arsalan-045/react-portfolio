@@ -8,6 +8,7 @@ import CertificateComponent from './certificate/certificate';
 import Contact from './contact/contact';
 import "./App.css"
 import Footer from './footer/footer';
+import ScrollToTopButton from './scrollbtn/btn';
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       </div>
       <Contact/>
       <Footer/>
+      <ScrollToTopButton/>
       
       
     </div>
