@@ -4,6 +4,7 @@ import './info.css';
 import { Link } from 'react-router-dom';
 // import resumeImage from '../images/resume-image.jpg';
 import infoImage from "./images/info-removebg-preview.jpg"
+import arImg from "./images/arsalan-pr.png"
 
 
 const InfoSection = () => {
@@ -21,7 +22,7 @@ const InfoSection = () => {
         </a>
       </div>
       <div className="info-image">
-        <img src={infoImage} alt="Resume" />
+        <img src={arImg} alt="Resume" />
       </div>
     </section>
   );

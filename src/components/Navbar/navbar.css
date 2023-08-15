@@ -6,7 +6,9 @@
   background-color: #2c8fb5;
   color: #fff;
   padding: 10px;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Pacifico';
+  font-size: 24px;
+  color: #ff6600;
 }
 
 .navbar__left {

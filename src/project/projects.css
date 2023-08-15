@@ -1,6 +1,7 @@
 .project-component {
     text-align: center;
     padding: 20px;
+    color: #777;
   }
   
   .project-heading {
@@ -10,7 +11,7 @@
   }
 
   .proj-title{
-    color: #e74c3c;
+    color: #e82c02;
   }
   
   .project-cards {
